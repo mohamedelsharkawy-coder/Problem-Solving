@@ -1,3 +1,8 @@
-In this file, I push all the probelm solving tasks that i have completed.
-Problem solving is one of the most important skills that any software engineer must have.
-I used to practice this skill on <a link= 'https://www.hackerrank.com/'> Hacker Rank </a> and this is my profile <a link= 'https://www.hackerrank.com/profile/_Mohamed_E89'> Mohamed_E89 </a>
+Problem Solving Tasks Repository
+Welcome to my problem-solving tasks repository! Here, you'll find a collection of tasks I've completed to enhance my problem-solving skills.
+
+About
+In this repository, I share various problem-solving tasks that I've completed. Problem-solving is a crucial skill for any software engineer, and I've been honing this skill through practice. I often use platforms like HackerRank for practice.
+
+HackerRank Profile
+You can also find my profile on HackerRank here. Feel free to explore the tasks I've solved there as well.
